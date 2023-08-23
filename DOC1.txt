@@ -2,4 +2,4 @@ THIS IS DOC 1.TXT
 Hello world
 This i addes when i created version 3
 We can pull the repository by using the git pull command. The syntax is given below: $ git pull <options><remote>/<branchname> $ git pull origin master.
-sss
+sameera
