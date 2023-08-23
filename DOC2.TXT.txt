@@ -1,1 +1,2 @@
 THIS IS MY DOC2.TXT
+I am very happy, i added this when i was making commit for my 3 version
